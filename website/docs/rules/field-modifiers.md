@@ -10,18 +10,18 @@ This page contains a dynamically generated list of all of the Sigma field modifi
 | base64ǀcontains               |             1 |                0 |
 | cased                         |             0 |                0 |
 | cidr                          |            35 |                0 |
-| contains                      |          3072 |               21 |
-| containsǀall                  |          1084 |                0 |
+| contains                      |          3081 |               21 |
+| containsǀall                  |          1085 |                0 |
 | containsǀcased                |             0 |                0 |
-| containsǀexpand               |             1 |                0 |
-| containsǀwindash              |           108 |                0 |
-| endswith                      |          3259 |              273 |
+| containsǀexpand               |             3 |                0 |
+| containsǀwindash              |           109 |                0 |
+| endswith                      |          3277 |              273 |
 | endswithfield                 |             0 |                0 |
 | endswithǀcased                |             0 |                0 |
 | endswithǀwindash              |             2 |                0 |
 | equalsfield                   |             0 |                0 |
 | exists                        |             0 |                0 |
-| expand                        |            11 |                0 |
+| expand                        |            18 |                0 |
 | fieldref                      |             4 |                1 |
 | fieldrefǀcontains             |             0 |                0 |
 | fieldrefǀendswith             |             0 |                2 |
@@ -34,7 +34,7 @@ This page contains a dynamically generated list of all of the Sigma field modifi
 | reǀi                          |             2 |                0 |
 | reǀm                          |             0 |                0 |
 | reǀs                          |             0 |                0 |
-| startswith                    |           539 |                6 |
+| startswith                    |           552 |                6 |
 | startswithǀcased              |             0 |                0 |
 | utf16beǀbase64offsetǀcontains |             0 |                0 |
 | utf16leǀbase64offsetǀcontains |             0 |                0 |
@@ -60,4 +60,4 @@ Currently, everything is supported.
 Currently, everything is supported.
 
 This document is being dynamically updated monthly based on the latest rules.  
-Last Update: 2026/08/01
+Last Update: 2026/09/02
