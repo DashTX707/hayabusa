@@ -10,18 +10,18 @@ Cette page contient une liste générée dynamiquement de tous les modificateurs
 | base64ǀcontains               |             1 |                0 |
 | cased                         |             0 |                0 |
 | cidr                          |            35 |                0 |
-| contains                      |          3072 |               21 |
-| containsǀall                  |          1084 |                0 |
+| contains                      |          3081 |               21 |
+| containsǀall                  |          1085 |                0 |
 | containsǀcased                |             0 |                0 |
-| containsǀexpand               |             1 |                0 |
-| containsǀwindash              |           108 |                0 |
-| endswith                      |          3259 |              273 |
+| containsǀexpand               |             3 |                0 |
+| containsǀwindash              |           109 |                0 |
+| endswith                      |          3277 |              273 |
 | endswithfield                 |             0 |                0 |
 | endswithǀcased                |             0 |                0 |
 | endswithǀwindash              |             2 |                0 |
 | equalsfield                   |             0 |                0 |
 | exists                        |             0 |                0 |
-| expand                        |            11 |                0 |
+| expand                        |            18 |                0 |
 | fieldref                      |             4 |                1 |
 | fieldrefǀcontains             |             0 |                0 |
 | fieldrefǀendswith             |             0 |                2 |
@@ -34,7 +34,7 @@ Cette page contient une liste générée dynamiquement de tous les modificateurs
 | reǀi                          |             2 |                0 |
 | reǀm                          |             0 |                0 |
 | reǀs                          |             0 |                0 |
-| startswith                    |           539 |                6 |
+| startswith                    |           552 |                6 |
 | startswithǀcased              |             0 |                0 |
 | utf16beǀbase64offsetǀcontains |             0 |                0 |
 | utf16leǀbase64offsetǀcontains |             0 |                0 |
@@ -60,4 +60,4 @@ Actuellement, tout est pris en charge.
 Actuellement, tout est pris en charge.
 
 Ce document est mis à jour dynamiquement chaque mois en fonction des dernières règles.  
-Dernière mise à jour : 2026/08/01
+Dernière mise à jour : 2026/09/02
