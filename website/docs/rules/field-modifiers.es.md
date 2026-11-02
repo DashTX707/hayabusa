@@ -9,19 +9,19 @@ Esta página contiene una lista generada dinámicamente de todos los modificador
 | base64offsetǀcontains         |             7 |                0 |
 | base64ǀcontains               |             1 |                0 |
 | cased                         |             0 |                0 |
-| cidr                          |            35 |                0 |
-| contains                      |          3073 |               21 |
-| containsǀall                  |          1084 |                0 |
+| cidr                          |            36 |                0 |
+| contains                      |          3119 |               23 |
+| containsǀall                  |          1094 |                8 |
 | containsǀcased                |             0 |                0 |
-| containsǀexpand               |             1 |                0 |
-| containsǀwindash              |           108 |                0 |
-| endswith                      |          3265 |              273 |
+| containsǀexpand               |             3 |                0 |
+| containsǀwindash              |           111 |                0 |
+| endswith                      |          3307 |              283 |
 | endswithfield                 |             0 |                0 |
 | endswithǀcased                |             0 |                0 |
 | endswithǀwindash              |             2 |                0 |
 | equalsfield                   |             0 |                0 |
 | exists                        |             0 |                0 |
-| expand                        |            11 |                0 |
+| expand                        |            20 |                0 |
 | fieldref                      |             4 |                1 |
 | fieldrefǀcontains             |             0 |                0 |
 | fieldrefǀendswith             |             0 |                2 |
@@ -30,11 +30,11 @@ Esta página contiene una lista generada dinámicamente de todos los modificador
 | gte                           |             0 |                0 |
 | lt                            |             0 |                0 |
 | lte                           |             0 |                0 |
-| re                            |           188 |               11 |
-| reǀi                          |             2 |                0 |
+| re                            |           189 |               11 |
+| reǀi                          |             4 |                0 |
 | reǀm                          |             0 |                0 |
 | reǀs                          |             0 |                0 |
-| startswith                    |           546 |                6 |
+| startswith                    |           560 |                6 |
 | startswithǀcased              |             0 |                0 |
 | utf16beǀbase64offsetǀcontains |             0 |                0 |
 | utf16leǀbase64offsetǀcontains |             0 |                0 |
@@ -60,4 +60,4 @@ Actualmente, todo está soportado.
 Actualmente, todo está soportado.
 
 Este documento se actualiza dinámicamente cada mes en función de las reglas más recientes.  
-Última actualización: 2026/08/01
+Última actualización: 2026/11/02
